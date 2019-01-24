@@ -1,0 +1,20 @@
+{
+  "name": "mars",
+  "version": "1.0.0",
+  "description": "Example nodejs project for learning purpose.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Bruce",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "joi": "^14.3.1",
+    "lodash": "~4.17.11",
+    "nodemon": "^1.18.9"
+  }
+}
